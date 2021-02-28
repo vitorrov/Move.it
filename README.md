@@ -30,10 +30,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## :clipboard: Funcionalidades
 
 - [x] Iniciar um ciclo de 25 minutos.
-- [x] Abadornar ciclo.
-- [x] Dispara um efeito sonoro quando o ciclo chega ao fim.
-- [x] Manda uma notificação quando o ciclo chega ao seu fim.
-- [x] A cada ciclo libera um novo desafio.
+- [x] Abandonar ciclo.
+- [x] Disparar um efeito sonoro quando o ciclo chega ao fim.
+- [x] Mandar uma notificação quando o ciclo chega ao fim.
+- [x] A cada ciclo liberar um novo desafio.
 - [x] Usuário ganha XP a cada desafio concluído.
 - [x] Usuário pode subir de nível.
 - [ ] - Modo escuro.
